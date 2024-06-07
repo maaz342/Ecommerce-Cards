@@ -26,7 +26,7 @@ export default function Cards() {
 
   return (
     <div>
-      <h1 className="text-center mb-4">API Product List</h1>
+      <h1 className="text-center mb-4">Product List</h1>
       <hr />
       <div className="container d-flex flex-column gap-3">
         <div className="row">
